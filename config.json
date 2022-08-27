@@ -1,7 +1,7 @@
 {
 	"ip":"sda46.aternos.me",
 	"port": 41731,
-	"name": "afkbot",
+	"name": "basambot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register 12345 12345",
